@@ -5,19 +5,18 @@ works with poe on steam and GeForceNow
 
 ## How it works ?
 if the script is running, then:
-
-spacebar = activate flasks with delays between every key
-
-middle mouse button = activate vaal/other skills with delays
-
-ctrl+space = toggle pause/resume script (for trade, chat etc)
+| KEY                | ACTION                                       |
+| ------------------ | -------------------------------------------- |
+| spacebar           | activate flasks with delays between every key|
+| middle mouse button| activate vaal/other skills with delays       |
+| ctrl+space         | pause/resume script (for trade, chat etc)    |
 
 
 suggested ingame options keyboard layout:
 | KEY            | ACTION                          |
 | -------------- | ------------------------------- |
 | 1 2 3 4 5 D    | flasks (5 or D for manual flask)|
-| space          | no action (not set)             |
+| spacebar       | no action (not set)             |
 | leftshift      | toggle skill set                |
 | mmb r t tab `  | vaal skills or other skills     |
 | b              | minimap                         |
