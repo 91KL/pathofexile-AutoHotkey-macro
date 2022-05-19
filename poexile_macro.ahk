@@ -10,7 +10,7 @@
 ; b -> minimap
 ; steam overlay -> shift+capslock (steam options)
 ;
-; if the script was run, then:
+; if the script is runnig, then:
 ; spacebar = activate flasks with delays between every key
 ; middle mouse button = activate vaal/other skills with delays
 ; ctrl+space = toggle pause/resume script (for trade, chat etc)
