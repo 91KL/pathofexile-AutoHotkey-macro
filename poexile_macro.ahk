@@ -13,9 +13,11 @@
 ;| shift+capslock | steam overlay (steam options)   |
 ;
 ; if the script is runnig, then:
-; spacebar = activate flasks with delays between every key
-; middle mouse button = activate vaal/other skills with delays
-; ctrl+space = toggle pause/resume script (for trade, chat etc)
+;| KEY                | ACTION                                       |
+;| ------------------ | -------------------------------------------- |
+;| spacebar           | activate flasks with delays between every key|
+;| middle mouse button| activate vaal/other skills with delays       |
+;| ctrl+space         | pause/resume script (for trade, chat etc)    |
 ;
 ; change the script as you like to match your keyboard layout 
 ; https://autohotkey.com/docs/KeyList.htm
