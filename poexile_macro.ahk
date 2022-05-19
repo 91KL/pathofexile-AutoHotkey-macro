@@ -1,4 +1,4 @@
-﻿; AutoHotkey flask-macro for Path of Exile
+; AutoHotkey flask and skills macro for Path of Exile
 ; for standalone client run poe as admin
 ; works with poe on steam and GeForceNow
 ;
