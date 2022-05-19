@@ -21,6 +21,7 @@
 ;
 ; change the script as you like to match your keyboard layout 
 ; https://autohotkey.com/docs/KeyList.htm
+;
 ; to minimize the risk of detection -> set all delays in script
 ; to different but similar values
 ; eg: 
