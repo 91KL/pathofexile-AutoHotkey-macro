@@ -3,12 +3,14 @@
 ; works with poe on steam and GeForceNow
 ;
 ; suggested ingame options keyboard layout:
-; flasks -> 1, 2, 3, 4, 5 or D (5 or D for manual flask)
-; space -> no action (not set)
-; leftshift -> toggle skill set
-; mmb, r, t, tab, ` -> for vaal skills or other skills
-; b -> minimap
-; steam overlay -> shift+capslock (steam options)
+;| KEY            | ACTION                          |
+;| -------------- | ------------------------------- |
+;| 1 2 3 4 5 D    | flasks (5 or D for manual flask)|
+;| space          | no action (not set)             |
+;| leftshift      | toggle skill set                |
+;| mmb r t tab `  | vaal skills or other skills     |
+;| b              | minimap                         |
+;| shift+capslock | steam overlay (steam options)   |
 ;
 ; if the script is runnig, then:
 ; spacebar = activate flasks with delays between every key
@@ -18,8 +20,12 @@
 ; change the script as you like to match your keyboard layout 
 ; https://autohotkey.com/docs/KeyList.htm
 ; to minimize the risk of detection -> set all delays in script
-; to different but similar values eg: random, delay1, 36, 55
-; to: random, delay1, 37, 57 and so on
+; to different but similar values
+; eg: 
+; random, delay1, 36, 55
+; to:
+; random, delay1, 37, 57
+; and so on
 ;
 ; thanks to random delays from the selected range
 ; no warnings about performing too many actions at once
